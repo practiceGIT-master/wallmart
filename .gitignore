@@ -4,8 +4,10 @@
 .path
 .project
 /node_modules
+ stage
 
 development
 
 
  master
+master
